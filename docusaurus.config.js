@@ -15,6 +15,7 @@ const config = {
   favicon: "img/logo.svg",
   organizationName: "nation3vc", // Usually your GitHub org/user name.
   projectName: "wiki", // Usually your repo name.
+  trailingSlash: true,
 
   presets: [
     [
