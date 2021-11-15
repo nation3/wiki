@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/facebook/docusaurus/edit/main/website/",
+          editUrl: "https://github.com/nation3vc/wiki",
           routeBasePath: "/",
         },
         blog: false,
@@ -46,7 +46,7 @@ const config = {
         },
         items: [
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/nation3vc/wiki",
             label: "GitHub",
             position: "right",
           },
