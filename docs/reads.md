@@ -10,6 +10,7 @@ slug: /reads
 - [Summary of the Network State](https://1729.com/summary): The Network State in one sentence, one paragraph, and one page.
 - [Dynamic Geography](https://patrifriedman.com/old_writing/dynamic_geography.html): Interesting take on possible solutions to make governance more efficient, including a take on smaller communities.
 - [Crypto Cities](https://vitalik.ca/general/2021/10/31/cities.html): Vitalik's take on crypto cities.
+- [The Decentralized Country](https://www.readthegeneralist.com/briefing/the-decentralized-country): Primer on cloud-first nations powered by DAOs.
 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence): A declaration on the freedom of cyberspace and lack of control from land governments over it.
 - [A Declaration of the Interdependence of Cyberspace](https://www.interdependence.online/declaration): A modernized take on the original one above.
 - [WTF happened in 1971](https://wtfhappenedin1971.com): Interesting stats about how the current system is failing the new generations.

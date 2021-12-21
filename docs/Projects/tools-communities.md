@@ -1,0 +1,11 @@
+---
+sidebar_position: 6
+slug: /tools-communities
+---
+
+# ⚙️ Tools for communities
+
+Tools that enable these Internet communities and cloud-first nation state to do work efficiently in a remote, decentralized manner.
+
+- [Coordinape](https://coordinape.com): Tools to reward contributors, incentivize participation and manage resources.
+- [1Hive Gardens](https://gardens.1hive.org): DAO model for truly decentralized communities using novel voting and resource allocation methods.
