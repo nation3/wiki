@@ -10,3 +10,4 @@ Tools that enable these Internet communities and cloud-first nation state to do 
 - [Coordinape](https://coordinape.com): Tools to reward contributors, incentivize participation and manage resources.
 - [1Hive Gardens](https://gardens.1hive.org): DAO model for truly decentralized communities using novel voting and resource allocation methods.
 - [Dework](https://dework.xyz): A web3-native Asana with token payments, credentialing, bounties and more.
+- [Clarity](https://www.clarity.so): The simplest workspace for decentralized teams.
