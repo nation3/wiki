@@ -12,7 +12,7 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/logo.svg",
+  favicon: "/img/favicon.ico",
   organizationName: "nation3vc", // Usually your GitHub org/user name.
   projectName: "wiki", // Usually your repo name.
   trailingSlash: true,
