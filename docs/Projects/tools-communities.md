@@ -14,4 +14,4 @@ Tools that enable these Internet communities and cloud-first nation state to do 
 - [Skiff](https://www.skiff.org): Decentralized & encrypted Google Docs alternative.
 - [Mazury](https://mazury.xyz): Web3 iteration of LinkedIn.
 - [Juicebox](https://juicebox.money/): Community funding for people and projects.
-- [Myco](https://www.myco.space): Digital clubs with built-in legal entities.
+- [Myco](https://www.myco.space): Digital clubs with built-in legal entiti.
