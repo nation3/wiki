@@ -47,6 +47,16 @@ const config = {
         },
         items: [
           {
+            href: "https://nation3.org",
+            label: "Main site",
+            position: "right",
+          },
+          {
+            href: "https://discord.gg/KqKjGVj",
+            label: "Join Discord",
+            position: "right",
+          },
+          {
             href: "https://github.com/nation3vc/wiki",
             label: "GitHub",
             position: "right",
