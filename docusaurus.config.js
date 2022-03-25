@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Nation3 wiki",
-  tagline: "Gathering the components of the Nation3 stack",
+  tagline: "Unbundling the nation state",
   url: "https://wiki.nation3.org",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -25,7 +25,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/nation3vc/wiki",
+          editUrl: "https://github.com/nation3/wiki",
           routeBasePath: "/",
         },
         blog: false,
@@ -42,7 +42,7 @@ const config = {
       navbar: {
         title: "Nation3 wiki",
         logo: {
-          alt: "My Site Logo",
+          alt: "Nation3 Logo",
           src: "img/logo.svg",
         },
         items: [
@@ -57,7 +57,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://github.com/nation3vc/wiki",
+            href: "https://github.com/nation3/wiki",
             label: "GitHub",
             position: "right",
           },
