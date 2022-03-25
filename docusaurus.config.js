@@ -43,7 +43,7 @@ const config = {
         title: "Nation3 wiki",
         logo: {
           alt: "Nation3 Logo",
-          src: "img/logo.svg",
+          src: "img/icon.svg",
         },
         items: [
           {
