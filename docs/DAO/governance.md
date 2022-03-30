@@ -15,7 +15,7 @@ A proposal would go through the following steps:
 1. Author publishes it as a forum post
 2. Author proposes it on Snapshot
 3. Citizens vote (duration is 24h)
-4. If approved, the proposals committee submits the proposal to the Aragon DAO
+4. If approved, any of the members of the proposals committee submits the proposal to the Aragon DAO
 5. $NATION holders ratify it (duration is 24h)
 
 We can think of this system as bicameral, where citizens are the most active governance actors, but need to keep in tune with $NATION holders. Incentives are well aligned, as citizens need to also lock $NATION to get citizenship.
@@ -30,3 +30,9 @@ This governance process is meant to kickstart the governance process within the 
 - The `MerkleDistributor` smart contract used for the tweetdrop
 - The `PassportIssuer` smart contract used to mint and burn passports
 - The `LiquidityRewards` smart contract that might be used to distribute liquidity rewards
+
+## Who is the initial proposal committee
+
+- [Luis Cuende](https://twitter.com/licuende): Nation3 core contributor, previously founder of Aragon.
+- [Carlos Juarez](https://twitter.com/0xPaella): Nation3 core contributor, previously founder of Guesser (acquired by Gemini).
+- [Anastasiya Belyaeva](https://twitter.com/anastasiya_vc): Nation3 core contributor, previously founder of Fabric Ventures.
