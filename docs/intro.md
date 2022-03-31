@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# The Nation3 stack
+# The Nation3 stacks
 
 ![](/img/hero.png)
 
