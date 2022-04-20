@@ -2,7 +2,7 @@
 slug: /governance
 ---
 
-# Governance process
+# 🗳 Governance process
 
 The current governance process has the following components:
 
