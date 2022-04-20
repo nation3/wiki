@@ -35,14 +35,27 @@ It also allows the DAO to finance itself, as the DAO holds the majority of the i
 
 **How to get $NATION**
 
-You can buy $NATION from the [Balancer pool](https://app.balancer.fi/#/pool/0x0bf37157d30dfe6f56757dcadff01aed83b08cd600020000000000000000019a).
+You can buy $NATION from [here](https://app.balancer.fi/#/trade/ether/0x333a4823466879eef910a04d473505da62142069).
+
+You can provide liquidity to the NATION/ETH pool [here](https://app.balancer.fi/#/pool/0x0bf37157d30dfe6f56757dcadff01aed83b08cd600020000000000000000019a).
 
 ## $veNATION
 $veNATION holders are those that bring more capital than time to the DAO. They take $NATION out of circulation due to their long-term commitment, creating a sink that might serve for $NATION to accrue value, and therefore capitalizing the Nation3 DAO.
 
 In turn, thanks to that, members who commit their time can advance the mission of the DAO by making proposals, conducting research, and carrying out initiatives.
 
-$veNATION token is non-transferrable and can only be accessed by staking $NATION for a period from 1 week up to 4 years. The amount of $veNATION for each $NATION staked correlates with the duration of the lock and it decreases as the time passes. 
+$veNATION token is non-transferrable and can only be accessed by staking $NATION for a period from 1 week up to 4 years.
+
+The $veNATION balance is calculated based on the following model: 
+
+1 $NATION locked for 4 years = 1 $veNATION
+1 $NATION locked for 3 years = 0.75 $veNATION
+1 $NATION locked for 2 years = 0.5 $veNATION
+1 $NATION locked for 1 years = 0.25 $veNATION
+
+You can can use this [calculator](https://app.nation3.org/lock) to model your desired amount and time lock. 
+
+The amount of $veNATION for each $NATION staked correlates with the duration of the lock and it decreases as the time passes. 
 
 **For example:**
 
@@ -54,8 +67,8 @@ It's important to keep this in mind when getting the NFT passport, since over ti
 
 **Holders’ rights:**
 
-- veNATION holders are entitled to claim an NFT passport, should you want to become a Nation3 citizen. There will be a requirement of holding a minimum amount of veNATION to claim a Genesis NFT passport.
-- Because longer-term commitment magnifies veNATION holdings, veNATION breaks the barrier to participation for those with minimal funds available: staking for 4 years will take you less $NATION to achieve the same $veNATION balance as someone staking much more $NATION for 1 month.
+- $veNATION holders are entitled to claim an NFT passport, should you want to become a Nation3 citizen. There will be a requirement of holding a minimum of 2 $veNATION to claim a Genesis NFT passport.
+- Because longer-term commitment magnifies $veNATION holdings, $veNATION breaks the barrier to participation for those with minimal funds available: staking for 4 years will take you less $NATION to achieve the same $veNATION balance as someone staking much more $NATION for 1 month.
 
 **Holders’ responsibilities:** 
 
@@ -63,9 +76,11 @@ It's important to keep this in mind when getting the NFT passport, since over ti
 
 **Holders’ financial incentives:** 
 
-- Holders might get boosted liquidity rewards when participating in active pools (eg $NATION / ETH Balancer pool), should the community approve such proposal. 
+- Holders might get boosted liquidity rewards when participating in active pools (eg $NATION / ETH Balancer pool), should the community approve such proposal. The proposal for this is currently being discussed on the [Forum](https://forum.nation3.org/t/proposal-to-launch-liquidity-rewards/25).
 
-**$veNATION contract address:** [https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d
+**Lock your $NATION to receive $veNATION following the steps [here](https://app.nation3.org/lock).**
+
+$veNATION contract address: [https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d
 ](https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d)
 
 ## NFT passports
@@ -94,3 +109,5 @@ NFT passports are non-transferrable, and can only be minted by those that hold t
 All citizens are veNATION holders, but not all veNATION holders are citizens.
 
 This creates economic alignment while maintaining the checks and balances resulting from both groups participating in governance — essentially a bicameral system.
+
+The proposal for this is currently being discussed on the [Forum](https://forum.nation3.org/t/proposal-to-issue-genesis-nft-passports/26).
