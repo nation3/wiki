@@ -36,7 +36,7 @@ Here's a breakdown with the permission structure:
 
 - Via the normal Agent instance:
   - Its treasury, consisting of most of $NATION's initial supply
-  - The `MerkleDistributor` smart contract used for the tweetdrop
+  - The [`MerkleDistributor`](https://etherscan.io/address/0xcab2B7614351649870e4DCC3490Ab692bf3beD60) smart contract used for the tweetdrop
   - The `PassportIssuer` smart contract that will be used to mint and burn passports
   - The `LiquidityRewards` smart contract that might be used to distribute liquidity rewards
 
