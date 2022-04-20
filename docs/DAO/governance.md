@@ -6,8 +6,8 @@ slug: /governance
 
 The current governance process has the following components:
 
-- [Snapshot space](https://snapshot.org/#/nation3.eth): Here citizens (holders of a Nation3 passport NFT) can propose and vote on governance proposals.
-- [Aragon DAO](https://client.aragon.org/#/nation3): The DAO that actually holds the funds. This DAO is governed by $NATION holders with simple majority voting.
+- [Snapshot space](https://snapshot.org/#/nation3.eth): $veNATION holders can vote on proposals. In the near future, citizens (holders of a Nation3 passport NFT) will be the ones able to propose and vote on governance proposals.
+- [Aragon DAO](https://client.aragon.org/#/nation3): The DAO that actually holds the funds. This DAO is governed by $veNATION holders.
 - Proposals committee: A committee, elected by citizens and ratified by $NATION holders, which has the responsibility of submitting the passed Snapshot votes to the Aragon DAO, for $NATION holders to ratify such proposals.
 
 A proposal would go through the following steps:
@@ -22,14 +22,27 @@ We can think of this system as bicameral, where citizens are the most active gov
 
 This governance process is meant to kickstart the governance process within the community, but it's by no means final.
 
+## DAO permissions
+
+The DAO is an Aragon DAO with:
+- Two [Agent app instances](https://aragon.org/agent): One — called Agent below — is meant to hold funds and control non-sensitive actions, and the other one — called Agent (veNATION supermajority) below — is meant to control extraordinary or sensitive actions, such as minting new $NATION or making significant changes to the DAO itself.
+- Two Voting app instances: One per Agent app. The first one is governed by $veNATION holders with simple majority voting, and the other with supermajority (66%) and a minimum quorum (10%). The latter is the one used to decide on sensitive actions.
+
+Here's a breakdown with the permission structure:
+![](https://user-images.githubusercontent.com/718208/164223576-735ffffb-5bd2-40d7-9dbe-685dab58d40a.png)
+![](https://user-images.githubusercontent.com/718208/164223663-1781297a-a82d-4fc3-a9d1-8cb0b25bba60.png)
+
 ## What's currently governed by the DAO
 
-- Its treasury, consisting of most of $NATION's initial supply
-- The $NATION token (the DAO can mint more)
-- Its own voting parameters
-- The `MerkleDistributor` smart contract used for the tweetdrop
-- The `PassportIssuer` smart contract used to mint and burn passports
-- The `LiquidityRewards` smart contract that might be used to distribute liquidity rewards
+- Via the normal Agent instance:
+  - Its treasury, consisting of most of $NATION's initial supply
+  - The `MerkleDistributor` smart contract used for the tweetdrop
+  - The `PassportIssuer` smart contract that will be used to mint and burn passports
+  - The `LiquidityRewards` smart contract that might be used to distribute liquidity rewards
+
+- Via the Agent (veNATION supermajority) instance:
+  - The $NATION token (the DAO can decide on the minting schedule, or cap the supply)
+  - Its own voting parameters and other key DAO parameters
 
 ## Who is the initial proposal committee
 
