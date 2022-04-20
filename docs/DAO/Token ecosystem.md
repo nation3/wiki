@@ -54,7 +54,7 @@ It's important to keep this in mind when getting the NFT passport, since over ti
 
 **Holders’ rights:**
 
-- veNATION holders are entitled to claim an NFT passport, should you want to become a Nation3 citizen. There will be a requirement of holding a minimum amount of veNATION to claim a Genesis NFT passport (as shall be determined by the community vote).
+- veNATION holders are entitled to claim an NFT passport, should you want to become a Nation3 citizen. There will be a requirement of holding a minimum amount of veNATION to claim a Genesis NFT passport.
 - Because longer-term commitment magnifies veNATION holdings, veNATION breaks the barrier to participation for those with minimal funds available: staking for 4 years will take you less $NATION to achieve the same $veNATION balance as someone staking much more $NATION for 1 month.
 
 **Holders’ responsibilities:** 
@@ -63,8 +63,7 @@ It's important to keep this in mind when getting the NFT passport, since over ti
 
 **Holders’ financial incentives:** 
 
-- Boosted liquidity rewards when participating in active pools (eg $NATION / ETH Balancer pool).
-- Share of future profits of the DAO as long as they perform their duties in regards to governance. This is not currently implemented since the DAO doesn’t have any revenue streams yet.
+- Holders might get boosted liquidity rewards when participating in active pools (eg $NATION / ETH Balancer pool), should the community approve such proposal. 
 
 **$veNATION contract address:** [https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d
 ](https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d)
@@ -89,7 +88,7 @@ NFT passports are non-transferrable, and can only be minted by those that hold t
 
 **Holders’ financial incentives:** 
 
-- Rewarded through Governance Mining, meaning that they receive NATION rewards as long as they meet their governance responsibilities. (Not implemented yet)
+- Holders might be rewarded through Governance Mining, meaning that they would receive NATION rewards as long as they meet their governance responsibilities. (Not implemented yet)
 - All of the veNATION financial incentives, as they are also veNATION holders.
 
 All citizens are veNATION holders, but not all veNATION holders are citizens.
