@@ -29,7 +29,7 @@ The DAO is an Aragon DAO with:
 - Two Voting app instances: One per Agent app. The first one is governed by $veNATION holders with simple majority voting, and the other with supermajority (66%) and a minimum quorum (10%). The latter is the one used to decide on sensitive actions.
 
 Here's a breakdown with the permission structure:
-![](https://user-images.githubusercontent.com/718208/164223576-735ffffb-5bd2-40d7-9dbe-685dab58d40a.png)
+![](https://user-images.githubusercontent.com/718208/164224949-10b3c522-9016-4ad8-98e3-c214635237e4.png)
 ![](https://user-images.githubusercontent.com/718208/164223663-1781297a-a82d-4fc3-a9d1-8cb0b25bba60.png)
 
 ## What's currently governed by the DAO
