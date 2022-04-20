@@ -1,7 +1,7 @@
 ---
 slug: /token
 ---
-# Token ecosystem
+# 🔄 Token ecosystem
 
 
 
