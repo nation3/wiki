@@ -1,3 +1,6 @@
+---
+slug: /TokenEcosystem
+---
 # Token ecosystem
 
 
@@ -13,7 +16,7 @@ $NATION serves as the entry point into the Nation3 ecosystem, unlocking access t
 **![token flow chart](/img/Token_flow_chart.png "")
 
 ## $NATION
-$NATION is re	uired in order to mint passport NFTs and become a citizen of Nation3. This ensures that citizens have long-term economic alignment.
+$NATION is required in order to mint passport NFTs and become a citizen of Nation3. This ensures that citizens have long-term economic alignment.
 
 $NATION therefore acts as a dynamic pricing mechanism for citizenship.
 
