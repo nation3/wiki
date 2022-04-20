@@ -1,5 +1,5 @@
 ---
-slug: /TokenEcosystem
+slug: /token
 ---
 # Token ecosystem
 
