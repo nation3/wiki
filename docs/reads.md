@@ -16,6 +16,6 @@ slug: /reads
 - [WTF happened in 1971](https://wtfhappenedin1971.com): Interesting stats about how the current system is failing the new generations.
 - [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf): A classic.
 
-## Sci-Fi Reads
+## 🔮 Sci-Fi Reads
 
-- [Daemon](https://www.goodreads.com/book/show/6665847-daemon), by by Daniel Suarez: Portrays DAOs running he world. A high-tech thriller for the wireless age that explores the unthinkable consequences of a computer program running without human control—a daemon—designed to dismantle society and bring about a new world order.
+- [Daemon](https://www.goodreads.com/book/show/6665847-daemon), by Daniel Suarez: Portrays DAOs running the world. A high-tech thriller for the wireless age that explores the unthinkable consequences of a computer program running without human control—a daemon—designed to dismantle society and bring about a new world order.
