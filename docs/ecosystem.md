@@ -20,6 +20,8 @@ slug: /resources
 
 * **Discord** [https://discord.gg/rvrqvUWPDy](https://discord.gg/rvrqvUWPDy)
 
+* **Forum:** https://forum.nation3.org
+
 * **Snapshot:** [https://snapshot.org/#/nation3.eth](https://snapshot.org/#/nation3.eth)
 
 * **Aragon DAO:** [https://client.aragon.org/#/nation3/](https://client.aragon.org/#/nation3/)
