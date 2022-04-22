@@ -14,13 +14,13 @@ slug: /resources
 
 * **Blog:** [https://mirror.xyz/3.nation3.eth](https://mirror.xyz/3.nation3.eth)
 
-* **Github** [https://github.com/nation3](https://github.com/nation3)
+* **Github:** [https://github.com/nation3](https://github.com/nation3)
 
-* **Reddit** [https://www.reddit.com/r/Nation3/](https://www.reddit.com/r/Nation3/)
+* **Reddit:** [https://www.reddit.com/r/Nation3/](https://www.reddit.com/r/Nation3/)
 
-* **Discord** [https://discord.gg/rvrqvUWPDy](https://discord.gg/rvrqvUWPDy)
+* **Discord:** [https://discord.gg/rvrqvUWPDy](https://discord.gg/rvrqvUWPDy)
 
-* **Forum:** https://forum.nation3.org
+* **Forum:** [https://forum.nation3.org](https://forum.nation3.org)
 
 * **Snapshot:** [https://snapshot.org/#/nation3.eth](https://snapshot.org/#/nation3.eth)
 
