@@ -48,5 +48,5 @@ Here's a breakdown with the permission structure:
 
 - [Luis Cuende](https://twitter.com/licuende): Nation3 core contributor, previously founder of Aragon.
 - [Carlos Juarez](https://twitter.com/0xPaella): Nation3 core contributor, previously founder of Guesser (acquired by Gemini).
-- [Uxio Pinheiro](https://twitter.com/0xgallego): Nation3 core contributor, smart contract developer.
+- [Uxio Piñeiro](https://twitter.com/0xgallego): Nation3 core contributor, smart contract developer.
 - [Anastasiya Belyaeva](https://twitter.com/anastasiya_vc): Nation3 core contributor, previously founder of Fabric Ventures.
