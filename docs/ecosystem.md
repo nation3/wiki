@@ -8,7 +8,7 @@ slug: /resources
 
 * **Twitter:** [https://twitter.com/Nation3DAO](https://twitter.com/Nation3DAO)
 
-* **Website:** [https://nation3.com/](https://nation3.com/)
+* **Website:** [https://nation3.org/](https://nation3.org/)
 
 * **Wiki:** [https://wiki.nation3.org/](https://wiki.nation3.org/)
 
