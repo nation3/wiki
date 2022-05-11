@@ -5,7 +5,7 @@ slug: /tools-communities
 
 # ⚙️ 用于社区的工具
 
-使这些互联网社区和云第一的民族国家能够以远程、分散的方式有效开展工作的工具。
+使这些互联网社区和云端的民族国家能够以远程、分散的方式有效开展工作的工具。
 
 - [Coordinape:](https://coordinape.com/ "Coordinape:") 奖励贡献者、激励参与和管理资源的工具。
 - [1Hive Gardens:](https://gardens.1hive.org/ "1Hive Gardens:") 使用新的投票和资源分配方法的真正去中心化社区的DAO模型。
