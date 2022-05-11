@@ -14,7 +14,7 @@ slug: /resources
 
 * **博客:** [https://mirror.xyz/3.nation3.eth](https://mirror.xyz/3.nation3.eth "https://mirror.xyz/3.nation3.eth")
 
-***Github** [https://github.com/nation3](https://github.com/nation3 "https://github.com/nation3")
+* **Github** [https://github.com/nation3](https://github.com/nation3 "https://github.com/nation3")
 
 * **Reddit** [https://www.reddit.com/r/Nation3/](https://www.reddit.com/r/Nation3/ "https://www.reddit.com/r/Nation3/")
 
