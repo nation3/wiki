@@ -6,7 +6,7 @@ slug: /reads
 # 须知
 
 - [主权个体](https://www.goodreads.com/en/book/show/82256.The_Sovereign_Individual "主权个体")：要了解导致对机构不信任的宏观条件，以及网络空间将如何蓬勃发展并成为事实上的管辖权，最相关的读物。该书写于1997年，预测了加密货币、远程工作、DAO和管辖权竞争等趋势。
-- [如何建立一个新的国家](https://1729.com/how-to-start-a-new-country/ "如何启动一个新的国家")：很好地概述了在互联网上建立由云端到陆地的国家的多种机制。
+- [如何建立一个新的国家](https://1729.com/how-to-start-a-new-country/ "如何启动一个新的国家")：很好地概述了在互联网上启动一个由云端到陆地的国家的多种机制。
 - [网络国家的总结](https://1729.com/summary "网络国家的总结")：一句话、一段话、一页纸的网络国家。
 - [动态地理学](https://patrifriedman.com/old_writing/dynamic_geography.html "动态地理学")：对使治理更有效的可能解决方案的有趣看法，包括对小型社区的看法。
 - [加密城市](https://vitalik.ca/general/2021/10/31/cities.html "加密城市")：Vitalik对加密货币城市的看法。
