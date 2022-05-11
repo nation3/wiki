@@ -29,8 +29,8 @@ slug: /governance
 - 两个Voting应用实例。每个代理应用一个。第一个是由\$veNATION持有者以简单多数投票方式管理，另一个是以超级多数（66%）和最低法定人数（20%）管理。后者是用来决定敏感行动的。
 
 下面是与权限结构的明细：
-![](image/image_OommpgFqpO.png)
-![](image/image_1roAoyyqIw.png)
+![](https://user-images.githubusercontent.com/718208/164224949-10b3c522-9016-4ad8-98e3-c214635237e4.png)
+![](https://user-images.githubusercontent.com/718208/164223663-1781297a-a82d-4fc3-a9d1-8cb0b25bba60.png)
 
 ## 目前由DAO管辖的是什么？
 
