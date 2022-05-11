@@ -5,7 +5,7 @@ slug: /physical-communities
 
 # 🏡 实体社区
 
-为提高生活质量和增加归属感而实质建造的新城市和社区。
+为提高生活质量和增加归属感而实质建造的新城市和社区
 
 - [Culdesac：](https://culdesac.com/ "Culdesac：")美国第一个从零开始建立的无车社区。他们认为，你的行动方式决定了你的生活方式，因此，他们希望创造一个具有更高的生活质量和更大的社区的街区。
 - [CityDAO：](https://www.citydao.io/ "CityDAO：")用DAO的形式在美国对区块链持友好态度的怀俄明州创建一个使用加密货币的城市。
