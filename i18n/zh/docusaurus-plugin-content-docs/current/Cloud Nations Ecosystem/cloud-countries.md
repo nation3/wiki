@@ -5,7 +5,7 @@ slug: /cloud-countries
 
 # 🏳️‍🌈 云国度
 
-**云国度**是提供或旨在提供类似于民族国家服务的社区。但是，他们不是从土地开始，而是在互联网上建立服务和积累社区，目的是最终扩展到现实世界。
+**云国度**是提供或旨在提供类似于民族国家服务的社区。但是，他们不是从土地开始，而是在互联网上建立服务和积累社区，目的是最终扩展到现实领域。
 
 - [Kong:](https://kong.land/ "Kong:") 拥有基于代币的公民身份、实体护照和[自己的实体/数字货币](https://kong.cash/ "自己的实体/数字货币")的云国家。
 - [Plumia:](https://plumia.country/ "Plumia:") 由[SafetyWing](https://safetywing.com/ "SafetyWing")发起，Plumia旨在创建一个由远程工作者和游牧者组成的云国家。
