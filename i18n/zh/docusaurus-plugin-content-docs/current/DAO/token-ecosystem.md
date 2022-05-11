@@ -14,7 +14,7 @@ slug: /token
 
 **代币流程图**
 
-![](image/image_r4J4HUhA7s.png)
+![token flow chart](/img/Token_flow_chart.png "")
 
 ## \$NATION
 为了铸造护照NFT和成为Nation3的公民，需要\$NATION。这确保了公民有长期的经济调整。

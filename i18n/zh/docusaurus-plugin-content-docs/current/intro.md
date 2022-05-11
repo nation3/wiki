@@ -5,7 +5,7 @@ slug: /
 
 # 国度3 维基
 
-![](image/image_BaWqbkYwxS.png)
+![](/img/hero.png)
 
 这里汇编了所有关于国度3的信息和解放国家区域的的地方。
 
