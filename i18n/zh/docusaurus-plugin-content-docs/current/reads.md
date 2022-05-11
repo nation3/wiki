@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+slug: /reads
+---
+
 # 须知
 
 *   [主权个体](https://www.goodreads.com/en/book/show/82256.The_Sovereign_Individual "主权个体")：要了解导致对机构不信任的宏观条件，以及网络空间将如何蓬勃发展并成为事实上的管辖权，最相关的读物。该书写于1997年，预测了加密货币、远程工作、DAO和管辖权竞争等趋势。

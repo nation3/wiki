@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+slug: /
+---
+
 # 国度3 维基
 
 ![](image/image_BaWqbkYwxS.png)

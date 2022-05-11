@@ -1,3 +1,8 @@
+---
+sidebar_position: 7
+slug: /jurisdictional-competition
+---
+
 # 🏆管辖权竞争
 
 **管辖权竞争**是一种现象，即民族国家开始相互竞争以吸引人才和经济活动。

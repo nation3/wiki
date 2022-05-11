@@ -1,3 +1,8 @@
+---
+sidebar_position: 6
+slug: /tools-communities
+---
+
 # ⚙️用于社区的工具
 
 使这些互联网社区和云第一的民族国家能够以远程、分散的方式有效开展工作的工具。

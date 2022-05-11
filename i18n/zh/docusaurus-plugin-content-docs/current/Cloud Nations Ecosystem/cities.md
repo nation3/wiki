@@ -1,3 +1,8 @@
+---
+sidebar_position: 4
+slug: /physical-communities
+---
+
 # 🏡实体社区
 
 基本上是为提高生活质量和增加归属感而建造的新城市和社区。
