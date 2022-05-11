@@ -1,13 +1,9 @@
----
-sidebar_position: 2
-slug: /sez
----
+# 🌎经济特区
 
-# 🌎 Special economic zones
+[**经济特区**](https://en.wikipedia.org/wiki/Special_economic_zone "经济特区")（**SEZ**）是一个商业和贸易法律与东道国其他地区不同的区域。
 
-A **[special economic zone](https://en.wikipedia.org/wiki/Special_economic_zone)** (**SEZ**) is an area in which the business and trade laws are different from the rest of the host country.
+尽管管理实体几乎可以完全控制土地，但东道国通常保留某些权利（某些法律保持不变）并最终拥有土地。
 
-Although the managing entity can have almost total control over the land, the host country usually reserves certain rights (and certain laws stay in place) and ultimately owns the land.
+*   [Prospera：](https://prospera.hn/ "Prospera：")经济特区在洪都拉斯启动。
 
-- [Prospera](https://prospera.hn): Special economic zone starting up in Honduras.
-- [Prospectus on Prospera](https://astralcodexten.substack.com/p/prospectus-on-prospera): Probably the best read on Prospera's current state and future ambitions.
+*   [Prospectus on Prospera](https://astralcodexten.substack.com/p/prospectus-on-prospera "Prospectus on Prospera"):公司的招股说明书。这可能是对普洛斯佩拉的现状和未来雄心的最好解读。

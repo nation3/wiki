@@ -1,113 +1,125 @@
----
-slug: /token
----
-# 🔄 Token ecosystem
+# 🔄代币生态系统
 
+\$NATION是进入Nation3生态系统的切入点，解锁访问：
 
+*   \$veNATION
 
-$NATION serves as the entry point into the Nation3 ecosystem, unlocking access to: 
+*   NFT护照
 
-- $veNATION 
-- NFT passports 
-- the token-gated community on Discord
-- liquidity rewards and governance mining
+*   Discord上的代币门社区
 
-**Token Flow Chart
-**![token flow chart](/img/Token_flow_chart.png "")
+*   流动性奖励和治理开采
 
-## $NATION
-$NATION is required in order to mint passport NFTs and become a citizen of Nation3. This ensures that citizens have long-term economic alignment.
+**代币流程图**
 
-$NATION therefore acts as a dynamic pricing mechanism for citizenship.
+![](image/image_r4J4HUhA7s.png)
 
-It also allows the DAO to finance itself, as the DAO holds the majority of the initial supply.
+## \$NATION
 
-**Information**
+为了铸造护照NFT和成为Nation3的公民，需要\$NATION。这确保了公民有长期的经济调整。
 
-- Initial supply: 42069 $NATION
-- Contract address: [`0x333a4823466879eef910a04d473505da62142069 `](https://etherscan.io/token/0x333a4823466879eef910a04d473505da62142069)
-- Network: Ethereum mainnet
-- Decimals: 18
-- Mintable: Yes, by the DAO
-- Initial distribution:
-  - 80%: Community (via DAO treasury and tweetdrop)
-  - 20%: Founding members and contributors
+因此，\$NATION作为公民身份的动态定价机制。
 
-**How to get $NATION**
+它还允许DAO为自己融资，因为DAO持有大部分的初始供应。
 
-You can buy $NATION from [here](https://app.balancer.fi/#/trade/ether/0x333a4823466879eef910a04d473505da62142069).
+#### 资料
 
-You can provide liquidity to the NATION/ETH pool [here](https://app.balancer.fi/#/pool/0x0bf37157d30dfe6f56757dcadff01aed83b08cd600020000000000000000019a).
+*   最初的供应：42069 \$Nation
 
-## $veNATION
-$veNATION holders are those that bring more capital than time to the DAO. They take $NATION out of circulation due to their long-term commitment, creating a sink that might serve for $NATION to accrue value, and therefore capitalizing the Nation3 DAO.
+*   合同地址：`0x333a4823466879eef910a04d473505da62142069`
 
-In turn, thanks to that, members who commit their time can advance the mission of the DAO by making proposals, conducting research, and carrying out initiatives.
+*   网络：以太坊主网
 
-$veNATION token is non-transferrable and can only be accessed by staking $NATION for a period from 1 week up to 4 years.
+*   小数点: 18
 
-The $veNATION balance is calculated based on the following model: 
+*   可造币：是的，由DAO负责
 
-1 $NATION locked for 4 years = 1 $veNATION
-1 $NATION locked for 3 years = 0.75 $veNATION
-1 $NATION locked for 2 years = 0.5 $veNATION
-1 $NATION locked for 1 years = 0.25 $veNATION
+*   初始分配：
+    &#x20;   80%: 社区（通过DAO库房和tweetdrop）
+    &#x20;   20%: 创始成员和贡献者
 
-You can can use this [calculator](https://app.nation3.org/lock) to model your desired amount and time lock. 
+#### 如何获得\$NATION
 
-The amount of $veNATION for each $NATION staked correlates with the duration of the lock and it decreases as the time passes. 
+你可以从[这里](#/trade/ether/0x333a4823466879eef910a04d473505da62142069 "这里")买入\$NATION。
 
-**For example:**
+你可以在[这里](#/pool/0x0bf37157d30dfe6f56757dcadff01aed83b08cd600020000000000000000019a "这里")为NATION/ETH池提供流动性。
 
-Joe staked 10 $NATION for 4 years and received 10 $veNATION. 
+## \$veNATION
 
-3 years later, when there is only 1 year of the lock remaining, Joe's $veNATION balance will drop to 2.5. At the end of the lock his $NATION balance, however, will remain the original 10.
+veNATION持有者是那些给DAO带来的资本多于时间的人。由于他们的长期承诺，他们将NATION带出流通领域，创造一个可能为\$NATION累积价值的水槽，从而使Nation3 DAO的资本化。
 
-It's important to keep this in mind when getting the NFT passport, since over time your $veNATION balance may drop below the required amount. You can always lock more $NATION to maintain the correct amount. 
+反过来，由于这一点，投入时间的成员可以通过提出建议、进行研究和执行倡议来推进DAO的使命。
 
-**Holders’ rights:**
+veNATION代币是不可转让的，只能通过质押NATION来获得，期限从1周到4年。
 
-- $veNATION holders are entitled to claim an NFT passport, should you want to become a Nation3 citizen. There will be a requirement of holding a minimum of 2 $veNATION to claim a Genesis NFT passport.
-- Because longer-term commitment magnifies $veNATION holdings, $veNATION breaks the barrier to participation for those with minimal funds available: staking for 4 years will take you less $NATION to achieve the same $veNATION balance as someone staking much more $NATION for 1 month.
+\$veNATION的余额是根据以下模式计算的：
 
-**Holders’ responsibilities:** 
+&#x20;   1个锁定4年的\$NATION = 1 \$veNATION&#x20;
 
-- Governance responsibility is limited to ratifying the proposals made by Nation3 citizens — which is key for the project, yet requires minimal time commitment.
+&#x20;   1个锁定3年的\$NATION = 0.75 \$veNATION&#x20;
 
-**Holders’ financial incentives:** 
+&#x20;   1个锁定2年的\$NATION = 0.5 \$veNATION&#x20;
 
-- Holders might get boosted liquidity rewards when participating in active pools (eg $NATION / ETH Balancer pool), should the community approve such proposal. The proposal for this is currently being discussed on the [Forum](https://forum.nation3.org/t/proposal-to-launch-liquidity-rewards/25).
+&#x20;   1个锁定1年的\$NATION = 0.25 \$veNATION
 
-**Lock your $NATION to receive $veNATION following the steps [here](https://app.nation3.org/lock).**
+你可以使用这个[计算器](https://app.nation3.org/lock "计算器")来模拟你所需要的金额和时间锁定。
 
-$veNATION contract address: [https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d
-](https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d)
+每一个\$NATION质押的\$veNATION数额与锁定的时间相关，它随着时间的推移而减少。
 
-## NFT passports
+#### 例如：
 
-NFT passport holders are the citizens of Nation3. They are the core users of its services, and simultaneously those that drive forward its progress. Nation3 citizens are the ones that make proposals, conduct research, carry out initiatives, structure themselves into working groups, and do everything else that’s required to successfully kickstart a cloud nation. They invest their time and expertise into the project, while making use of the funds from the Nation3 DAO.
+乔用10\$NATION质押4年，收到10\$veNATION。
 
-In the first instance, a **limited edition of Genesis NFTs** can be minted. After that, the DAO can decide whether to issue more passports, how many and when.
+3年后，当锁定期只剩下1年时，乔的\$veNATION余额将下降到2.5。然而，在锁定期结束时，他的\$NATION余额将保持原来的10。
 
-NFT passports are non-transferrable, and can only be minted by those that hold the required amount of $veNATION. If a $veNATION holder who is a citizen doesn’t renew their lock and allows for the required $veNATION balance to drop, therefore lacking any long-term commitment, the NFT passport would be burned. This ensures that citizens have long-term economic alignment.
+在获得NFT护照时，一定要记住这一点，因为随着时间的推移，你的\$veNATION余额可能会下降到规定的数额以下。你可以随时锁定更多的\$NATION以保持正确的数额。
 
-**Holders’ rights:** 
+#### 持有者权利：
 
-- Use all the services that Nation3 provides or will provide in the future, including physical spaces.
-- Access to certain token-gated parts of public forums, such as Discord.
-- Making proposals and making decisions within the Nation3 DAO (provided that those are ratified by veNATION holders).
+*   如果你想成为国度3的公民，veNATION持有人有权申请NFT护照。要求至少持有2个veNATION才能申请初代NFT护照。
 
-**Holders’ responsibilities:** 
+*   由于长期的承诺放大了veNATION的持有量，veNATION打破了那些可用资金很少的人的参与障碍：质押为4年，你将花费较少的NATION来实现相同的veNATION余额，而某人质押为1个月的\$NATION要多很多。
 
-- Carrying the bulk of active governance responsibility. They are the only ones that can put proposals forward, and vote them to then be ratified by veNATION holders.
+#### 持有者的责任：
 
-**Holders’ financial incentives:** 
+*   治理责任仅限于批准国度3公民提出的建议--这对项目来说很关键，但需要投入最少的时间。
 
-- Holders might be rewarded through Governance Mining, meaning that they would receive NATION rewards as long as they meet their governance responsibilities. (Not implemented yet)
-- All of the veNATION financial incentives, as they are also veNATION holders.
+#### 持有者的财务激励：
 
-All citizens are veNATION holders, but not all veNATION holders are citizens.
+*   如果社区批准这一提议，持有者在参与活跃的资金池（如\$NATION/ETH平衡池）时可能会获得更多的流动性奖励。这方面的建议目前正在[论坛](https://forum.nation3.org/t/proposal-to-launch-liquidity-rewards/25 "论坛")上讨论。
 
-This creates economic alignment while maintaining the checks and balances resulting from both groups participating in governance — essentially a bicameral system.
+**按照**[**这里**](https://app.nation3.org/lock "这里")**的步骤质押NATION，收取veNATION。**
 
-The proposal for this is currently being discussed on the [Forum](https://forum.nation3.org/t/proposal-to-issue-genesis-nft-passports/26).
+\$veNATION合约地址：[https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d](https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d "https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d")
+
+## NFT护照
+
+NFT护照持有人是Nation3的公民。他们是其服务的核心用户，同时也是推动其发展的人。Nation3公民是那些提出建议、进行研究、开展倡议、将自己组织成工作组以及做其他一切成功启动云国家所需的工作的人。他们将自己的时间和专业知识投入到项目中，同时利用Nation3 DAO的资金。
+
+在第一种情况下，可以铸造**限量版的初代NFT**。之后，DAO可以决定是否发行更多的护照，数量和时间。
+
+NFT护照是不可转让的，只能由持有所需数量的veNATION的人铸造。如果作为公民的veNATION持有人不更新他们的锁，并允许所需的\$veNATION余额下降，因此缺乏任何长期承诺，NFT护照将被烧毁。这确保公民有长期的经济调整。
+
+#### 护照持有人权利：
+
+*   使用Nation3提供的或未来将提供的所有服务，包括物理空间。
+
+*   访问公共论坛的某些代币门禁部分，如Discord。
+
+*   在Nation3 DAO内提出建议和作出决定（前提是这些建议得到veNATION持有人的批准）。
+
+#### 持有者的责任：
+
+*   承担着大部分积极的治理责任。他们是唯一能够提出建议，并进行投票，然后由veNATION持有人批准的人。
+
+#### 持有者的财务激励：
+
+*   持有者可能通过治理开采获得奖励，也就是说，只要他们履行治理责任，就能获得NATION的奖励。(尚未实施)
+
+*   所有veNATION的财政奖励，因为他们也是veNATION的持有者。
+
+所有公民都是veNATION持有人，但并非所有veNATION持有人都是公民。
+
+这创造了经济上的一致，同时保持了两个群体参与治理所产生的制衡--基本上是两院制。
+
+目前[论坛](https://forum.nation3.org/t/proposal-to-issue-genesis-nft-passports/26 "论坛")上正在讨论这方面的建议。

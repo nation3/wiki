@@ -1,12 +1,7 @@
----
-sidebar_position: 7
-slug: /jurisdictional-competition
----
+# 🏆管辖权竞争
 
-# 🏆 Jurisdictional competition
+**管辖权竞争**是一种现象，即民族国家开始相互竞争以吸引人才和经济活动。
 
-**Jurisdictional competition** is a phenomenon in which nation states start competing against each other to attract talent and economic activity.
+比如签证或投资护照项目，或非习惯性居住项目等。
 
-Some examples are visa or passport by investment programs, or non-habitual residency programs.
-
-- [Offchain Lisboa](https://offchain.city): Invest in Portuguese real estate and get a visa without selling your crypto. Structured like a DAO.
+*   [Offchain Lisboa：](https://offchain.city/ "Offchain Lisboa：")投资葡萄牙房地产，无需出售你的加密货币即可获得签证。结构像DAO。
