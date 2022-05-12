@@ -16,6 +16,15 @@ $ yarn start
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
+### i18n
+
+If you want to start the local development server using a different locale than the default, you can specify the locale in a parameter like this:
+```
+npm run start -- --locale zh
+```
+
+You will then be able to access that locale by appending it to the URL: http://localhost:3000/zh/
+
 ### Build
 
 ```
