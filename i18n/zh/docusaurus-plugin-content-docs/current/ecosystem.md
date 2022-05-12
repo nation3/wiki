@@ -20,15 +20,15 @@ slug: /resources
 
 * **Discord** [https://discord.gg/rvrqvUWPDy](https://discord.gg/rvrqvUWPDy "https://discord.gg/rvrqvUWPDy")
 
-* **电报** [https://t.me/nation3\_official](https://t.me/nation3_official "https://t.me/nation3_official")
+* **电报** [https://t.me/nation3_official](https://t.me/nation3_official "https://t.me/nation3_official")
 
 * **Snapshot:** [https://snapshot.org/#/nation3.eth](https://snapshot.org/#/nation3.eth "https://snapshot.org/#/nation3.eth")
 
 * **Aragon DAO:** [https://client.aragon.org/#/nation3/](https://client.aragon.org/#/nation3/ "https://client.aragon.org/#/nation3/")
 
-* **\$NATION:** [https://etherscan.io/address/0x333a4823466879eef910a04d473505da62142069](https://etherscan.io/address/0x333a4823466879eef910a04d473505da62142069 "https://etherscan.io/address/0x333a4823466879eef910a04d473505da62142069")
+* **$NATION:** [https://etherscan.io/address/0x333a4823466879eef910a04d473505da62142069](https://etherscan.io/address/0x333a4823466879eef910a04d473505da62142069 "https://etherscan.io/address/0x333a4823466879eef910a04d473505da62142069")
 
-* **\$veNATION:** [https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d](https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d "https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d")
+* **$veNATION:** [https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d](https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d "https://etherscan.io/address/0xf7def1d2fbda6b74bee7452fdf7894da9201065d")
 
 * **Dune Analytics Dashboard:** [https://dune.com/linzi/Nation3-Dashboard](https://dune.com/linzi/Nation3-Dashboard "https://dune.com/linzi/Nation3-Dashboard")
 
