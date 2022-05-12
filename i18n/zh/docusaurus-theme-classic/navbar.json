@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "国度3 维基",
+    "description": "The title in the navbar"
+  },
+  "item.label.Main site": {
+    "message": "主页",
+    "description": "Navbar item with label Main site"
+  },
+  "item.label.Join Discord": {
+    "message": "加入讨论区",
+    "description": "Navbar item with label Join Discord"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
