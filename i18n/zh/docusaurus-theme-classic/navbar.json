@@ -8,7 +8,7 @@
     "description": "Navbar item with label Main site"
   },
   "item.label.Join Discord": {
-    "message": "加入讨论区",
+    "message": "加入Discord",
     "description": "Navbar item with label Join Discord"
   },
   "item.label.GitHub": {
