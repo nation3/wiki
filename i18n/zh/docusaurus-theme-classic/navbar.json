@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Nation3 wiki",
+    "description": "The title in the navbar"
+  },
+  "item.label.Main site": {
+    "message": "Main site",
+    "description": "Navbar item with label Main site"
+  },
+  "item.label.Join Discord": {
+    "message": "Join Discord",
+    "description": "Navbar item with label Join Discord"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
