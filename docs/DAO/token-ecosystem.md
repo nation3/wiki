@@ -49,10 +49,10 @@ $veNATION token is non-transferrable and can only be accessed by staking $NATION
 
 The $veNATION balance is calculated based on the following model: 
 
-1 $NATION locked for 4 years = 1 $veNATION
-1 $NATION locked for 3 years = 0.75 $veNATION
-1 $NATION locked for 2 years = 0.5 $veNATION
-1 $NATION locked for 1 years = 0.25 $veNATION
+- 1 $NATION locked for 4 years = 1.00 $veNATION
+- 1 $NATION locked for 3 years = 0.75 $veNATION
+- 1 $NATION locked for 2 years = 0.50 $veNATION
+- 1 $NATION locked for 1 years = 0.25 $veNATION
 
 You can can use this [calculator](https://app.nation3.org/lock) to model your desired amount and time lock. 
 
