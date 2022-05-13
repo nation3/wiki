@@ -50,10 +50,10 @@ veNATION代币是不可转让的，只能通过质押NATION来获得，期限从
 
 $veNATION的余额是根据以下模式计算的：
 
-1个锁定4年的$NATION = 1 $veNATION
-1个锁定3年的$NATION = 0.75 $veNATION
-1个锁定2年的$NATION = 0.5 $veNATION
-1个锁定1年的$NATION = 0.25 $veNATION
+- 1个锁定4年的$NATION = 1.00 $veNATION
+- 1个锁定3年的$NATION = 0.75 $veNATION
+- 1个锁定2年的$NATION = 0.50 $veNATION
+- 1个锁定1年的$NATION = 0.25 $veNATION
 
 你可以使用这个[计算器](https://app.nation3.org/lock "计算器")来模拟你所需要的金额和时间锁定。
 
