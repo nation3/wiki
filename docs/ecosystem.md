@@ -20,6 +20,8 @@ slug: /resources
 
 * **Discord:** [https://discord.gg/rvrqvUWPDy](https://discord.gg/rvrqvUWPDy)
 
+* **Telegram:** [https://t.me/nation3_official](https://t.me/nation3_official)
+
 * **Forum:** [https://forum.nation3.org](https://forum.nation3.org)
 
 * **Snapshot:** [https://snapshot.org/#/nation3.eth](https://snapshot.org/#/nation3.eth)
