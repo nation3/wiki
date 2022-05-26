@@ -15,6 +15,7 @@ slug: /reads
 - [A Declaration of the Interdependence of Cyberspace](https://www.interdependence.online/declaration): A modernized take on the original one above.
 - [WTF happened in 1971](https://wtfhappenedin1971.com): Interesting stats about how the current system is failing the new generations.
 - [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf): A classic.
+- [The Wealth of Nations](https://www.goodreads.com/book/show/25698): Published in 1776, in the same year as the Declaration of Independence, Adam Smith's celebrated defense of free market economies has had a similarly significant impact on the course of modern history. The most remarkable and enduring innovation of _The Wealth of Nations_ was to see the whole of economic life as a unified system, but it is also notable as one of the Enlightenment's most eloquent testaments to the sanctity of the individual in relation to the state.
 
 ## 🔮 Sci-Fi Reads
 
