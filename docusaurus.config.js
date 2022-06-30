@@ -18,8 +18,8 @@ const config = {
   trailingSlash: true,
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh']
+    defaultLocale: "en",
+    locales: ["en", "zh"],
   },
 
   presets: [
@@ -28,6 +28,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          remarkPlugins: [require("mdx-mermaid")],
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           editUrl: "https://github.com/nation3/wiki/tree/main/",
@@ -52,8 +53,8 @@ const config = {
         },
         items: [
           {
-            type: 'localeDropdown',
-            position: 'left',
+            type: "localeDropdown",
+            position: "left",
           },
           {
             href: "https://nation3.org",
