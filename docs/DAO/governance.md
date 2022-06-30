@@ -48,15 +48,15 @@ Here's a breakdown with the permission structure:
 
 ```mermaid
 flowchart TD
-    DAO[Aragon DAO] -->|Has| A1{Agent with simple majority}
-    DAO -->|Has| A2{Agent with supermajority}
-    A1 -->|Governs| GOVERNED
-    subgraph GOVERNED[ ]
-      MerkleDistributor
-      PassportIssuer
-      BoostedLiquidityRewards
-    end
-    A2 -->|Governs| NATION[$NATION minting]
+  DAO[Aragon DAO] -->|Has| A1{Agent with simple majority}
+  DAO -->|Has| A2{Agent with supermajority}
+  A1 -->|Governs| GOVERNED
+  subgraph GOVERNED[ ]
+    MerkleDistributor
+    PassportIssuer
+    BoostedLiquidityRewards
+  end
+  A2 -->|Governs| NATION[$NATION minting]
 ```
 
 ## Who is the initial proposal committee
