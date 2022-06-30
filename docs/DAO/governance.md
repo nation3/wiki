@@ -41,7 +41,6 @@ Here's a breakdown with the permission structure:
   - The [`MerkleDistributor`](https://etherscan.io/address/0xcab2B7614351649870e4DCC3490Ab692bf3beD60) smart contract used for the tweetdrop
   - The `PassportIssuer` smart contract that will be used to mint and burn passports
   - The [`BoostedLiquidityRewards`](https://etherscan.io/address/0x4f1e79793fd5f5805b285c3f29379b8056a4476b) smart contract used to distribute liquidity rewards
-    0x279c0b6bfCBBA977eaF4ad1B2FFe3C208aa068aC
 
 - Via the Agent (veNATION supermajority) instance:
   - The $NATION token (the DAO can decide on the minting schedule, or cap the supply)
