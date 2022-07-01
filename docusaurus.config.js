@@ -18,8 +18,8 @@ const config = {
   trailingSlash: true,
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh']
+    defaultLocale: "en",
+    locales: ["en", "zh"],
   },
 
   presets: [
@@ -52,8 +52,8 @@ const config = {
         },
         items: [
           {
-            type: 'localeDropdown',
-            position: 'left',
+            type: "localeDropdown",
+            position: "left",
           },
           {
             href: "https://nation3.org",
@@ -61,7 +61,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://discord.gg/rvrqvUWPDy",
+            href: "https://discord.gg/nation3",
             label: "Join Discord",
             position: "right",
           },
