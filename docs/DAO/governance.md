@@ -46,6 +46,19 @@ Here's a breakdown with the permission structure:
   - The $NATION token (the DAO can decide on the minting schedule, or cap the supply)
   - Its own voting parameters and other key DAO parameters
 
+```mermaid
+flowchart TD
+  DAO[Aragon DAO] -->|Has| A1{Agent with simple majority}
+  DAO -->|Has| A2{Agent with supermajority}
+  A1 -->|Governs| GOVERNED
+  subgraph GOVERNED[ ]
+    MerkleDistributor
+    PassportIssuer
+    BoostedLiquidityRewards
+  end
+  A2 -->|Governs| NATION[$NATION minting]
+```
+
 ## Who is the initial proposal committee
 
 - [Luis Cuende](https://twitter.com/licuende): Nation3 core contributor, previously founder of Aragon.
