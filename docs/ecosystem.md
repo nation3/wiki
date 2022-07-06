@@ -34,4 +34,6 @@ slug: /resources
 
 - **Balancer Pool:** [https://app.balancer.fi/#/pool/0x0bf37157d30dfe6f56757dcadff01aed83b08cd600020000000000000000019a](https://app.balancer.fi/#/pool/0x0bf37157d30dfe6f56757dcadff01aed83b08cd600020000000000000000019a)
 
+- **Dune Analytics Dashboard:** [https://dune.com/linzi/Nation3-Dashboard](https://dune.com/linzi/Nation3-Dashboard)
+
 - **Brand identity:** [https://nation3.notion.site/Branding-057338c25d454c7291a409c7416f3276](https://nation3.notion.site/Branding-057338c25d454c7291a409c7416f3276)
