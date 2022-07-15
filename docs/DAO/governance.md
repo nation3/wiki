@@ -6,7 +6,7 @@ slug: /governance
 
 The current governance process has the following components:
 
-- [Snapshot space](https://snapshot.org/#/nation3.eth): $veNATION holders can vote on proposals. In the near future, citizens (holders of a Nation3 passport NFT) will be the ones able to propose and vote on governance proposals.
+- [Snapshot space](https://vote.nation3.org): $veNATION holders can vote on proposals. In the near future, citizens (holders of a Nation3 passport NFT) will be the ones able to propose and vote on governance proposals.
 - [Aragon DAO](https://client.aragon.org/#/nation3): The DAO that actually holds the funds. This DAO is governed by $veNATION holders.
 - Proposals committee: A committee, elected by citizens and ratified by $veNATION holders (in the future by citizens), which has the responsibility of submitting the passed Snapshot votes to the Aragon DAO, for $veNATION holders to ratify such proposals.
 

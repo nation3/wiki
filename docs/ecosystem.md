@@ -24,7 +24,7 @@ slug: /resources
 
 - **Forum:** [https://forum.nation3.org](https://forum.nation3.org)
 
-- **Snapshot:** [https://snapshot.org/#/nation3.eth](https://snapshot.org/#/nation3.eth)
+- **Snapshot:** [https://vote.nation3.org](https://vote.nation3.org)
 
 - **Aragon DAO:** [https://client.aragon.org/#/nation3/](https://client.aragon.org/#/nation3/)
 

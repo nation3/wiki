@@ -6,7 +6,7 @@ slug: /governance
 
 目前的治理过程有以下内容：
 
-- [Snapshot space](https://snapshot.org/#/nation3.eth"): $veNATION持有人可以对提案进行投票。在不久的将来，公民（Nation3护照NFT的持有者）将是能够提出治理提案并投票的人。
+- [Snapshot space](https://vote.nation3.org): $veNATION持有人可以对提案进行投票。在不久的将来，公民（Nation3护照NFT的持有者）将是能够提出治理提案并投票的人。
 - [Aragon DAO](https://client.aragon.org/#/nation3): 实际持有资金的DAO。这个DAO由$veNATION持有人管理。
 - 提案委员会。一个由公民选举并由$veNATION持有人批准的委员会（将来由公民批准），负责将通过的快照投票提交给Aragon DAO，让veNATION持有人批准这些提案。
 
