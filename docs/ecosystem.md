@@ -4,6 +4,8 @@ slug: /resources
 
 # Core links
 
+<<<<<<< HEAD
+
 ### Official resources of the Nation3 ecosystem
 
 - **Twitter:** [https://twitter.com/Nation3DAO](https://twitter.com/Nation3DAO)
