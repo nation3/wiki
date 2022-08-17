@@ -7,6 +7,6 @@ slug: /
 
 ![](/img/hero.png)
 
-This is the place to compile all things Nation3 and unbundling nation states.
+This is the place to compile all (mostly technical and internal) documentation about Nation3.
 
-The Nation3 wiki containts useful information about the DAO, the token ecosystem, governance process, audits, relevant links, as well as compiles the ecosystem of projects and services relevant to cloud nations.
+The Nation3 wiki containts useful information about the DAO, the token, audits, relevant links, as well as compiles the ecosystem of projects and services relevant to cloud nations.
