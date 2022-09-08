@@ -42,6 +42,8 @@ flowchart TD
 
 ## Who is the initial proposal committee
 
+The proposal committee can submit proposals to Snapshot and to the Aragon DAO.
+
 - [Luis Cuende](https://twitter.com/licuende): Nation3 core contributor, previously founder of Aragon.
 - [Carlos Juarez](https://twitter.com/0xPaella): Nation3 core contributor, previously founder of Guesser (acquired by Gemini).
 - [Uxio Piñeiro](https://twitter.com/0xgallego): Nation3 core contributor, smart contract developer.

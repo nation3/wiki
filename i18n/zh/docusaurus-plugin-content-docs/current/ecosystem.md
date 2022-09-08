@@ -18,7 +18,7 @@ slug: /resources
 
 - **Reddit:** [https://www.reddit.com/r/Nation3/](https://www.reddit.com/r/Nation3/)
 
-- **Discord:** [https://discord.gg/nation3](https://discord.gg/nation3)
+- **Discord:** [https://n3.gg/discord](https://n3.gg/discord)
 
 - **电报:** [https://t.me/nation3_official](https://t.me/nation3_official)
 

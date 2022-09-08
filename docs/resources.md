@@ -17,7 +17,7 @@ slug: /resources
 
 - **Github:** [https://github.com/nation3](https://github.com/nation3)
 
-- **Discord:** [https://discord.gg/nation3](https://discord.gg/nation3)
+- **Discord:** [https://n3.gg/discord](https://n3.gg/discord)
 
 - **Forum:** [https://forum.nation3.org](https://forum.nation3.org)
 
