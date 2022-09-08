@@ -62,7 +62,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://discord.gg/nation3',
+            href: 'https://n3.gg/discord',
             label: 'Join Discord',
             position: 'right',
           },
