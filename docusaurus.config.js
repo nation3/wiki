@@ -17,11 +17,6 @@ const config = {
   projectName: 'wiki', // Usually your repo name.
   trailingSlash: true,
 
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh'],
-  },
-
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -52,10 +47,6 @@ const config = {
           src: 'img/icon.svg',
         },
         items: [
-          {
-            type: 'localeDropdown',
-            position: 'left',
-          },
           {
             href: 'https://nation3.org',
             label: 'Main site',
