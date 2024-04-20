@@ -69,7 +69,7 @@ It's important to keep this in mind when getting the NFT passport, since over ti
 
 **Holders’ rights:**
 
-- $veNATION holders are entitled to claim an NFT passport, should you want to become a Nation3 citizen. There will be a requirement of holding a minimum of 2 $veNATION to claim a Genesis NFT passport.
+- $veNATION holders are entitled to claim an NFT passport, should you want to become a Nation3 citizen. There will be a requirement of holding a minimum of 3 $veNATION to claim a Genesis NFT passport.
 - Because longer-term commitment magnifies $veNATION holdings, $veNATION breaks the barrier to participation for those with minimal funds available: staking for 4 years will take you less $NATION to achieve the same $veNATION balance as someone staking much more $NATION for 1 month.
 
 **Holders’ responsibilities:**
