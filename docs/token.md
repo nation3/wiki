@@ -19,11 +19,11 @@ It also allows the DAO to finance itself, as the DAO holds the majority of the i
 
 **Information**
 
-- Initial supply: 42069 $NATION
+- Initial supply: 42,069 $NATION
 - Contract address: [`0x333a4823466879eef910a04d473505da62142069 `](https://etherscan.io/token/0x333a4823466879eef910a04d473505da62142069)
 - Network: Ethereum mainnet
 - Decimals: 18
-- Mintable: Yes, by the DAO
+- Mintable: No, [capped](https://app.aragon.org/#/daos/ethereum/nation3.dao.eth/governance/proposals/0xf52658f65fadb561bcbacc9d27c361210b453609_0x5) at 42,069
 - Initial distribution:
   - 80%: Community (via DAO treasury and tweetdrop)
   - 20%: Founding members and contributors
